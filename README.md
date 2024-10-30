@@ -170,8 +170,4 @@ dependencies {
 - [x] Error handling
 
 
-## License
-[Your License Type]
 
-## Contact
-For support or queries, please contact [Your Contact Information]
