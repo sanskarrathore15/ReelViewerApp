@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "997320448989",
+    "project_id": "reel-viewer-app",
+    "storage_bucket": "reel-viewer-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997320448989:android:9efa1c2417026910a03434",
+        "android_client_info": {
+          "package_name": "com.example.reels"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHmxdbQQKlPXr220nZt_M9keE4U-1jL7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
